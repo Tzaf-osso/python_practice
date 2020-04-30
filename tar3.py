@@ -5,3 +5,6 @@ for i in range(100):
         print("remainder 1")
     else:
         print("remainder 2")
+
+while True:
+    pass
